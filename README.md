@@ -19,21 +19,17 @@ The following questions will be answered by the following resources:
 | What is the logical project structure and architecture? | [architecture.md](docs/guides/architecture.md) |
 | Where can I find protocol specs?                        | [specs](docs/specs/README.md)                  |
 | Where can I find developer docs?                        | [docs](https://v2-docs.zksync.io/dev/)         |
-
 ## Policies
-
 - [Security policy](SECURITY.md)
 - [Contribution policy](CONTRIBUTING.md)
 
 ## License
-
 zkSync Era is distributed under the terms of either
 
 - Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
 - MIT license ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
 
 at your option.
-
 ## Official Links
 
 - [Website](https://zksync.io/)
